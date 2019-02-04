@@ -15,7 +15,7 @@ from sklearn import svm
 from sklearn.svm import SVC
 
 # -----------------------Reading CSV File--------------------------#
-df = pd.read_csv('shdeshpa.csv',header=None)
+df = pd.read_csv('supportvector.csv',header=None)
 print(df, df.shape)
 
 #---------------------------------TASK 1---------------------------#
